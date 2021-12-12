@@ -1,2 +1,2 @@
 # Heap-Sort
-The C++ implementation of heat sort
+The C++ implementation of heap sort
